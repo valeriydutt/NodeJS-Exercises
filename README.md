@@ -1,3 +1,2 @@
 # NodeJS-Masterclass
-Personal Repository for learning Node.js.
-Working through Brad Traversy's Node.js API Masterclass With Express & MongoDB
+Personal Repository for working through Brad Traversy's Node.js API Masterclass With Express & MongoDB
