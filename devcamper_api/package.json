@@ -5,13 +5,15 @@
   "main": "server.js",
   "scripts": {
     "start": "set NODE_ENV=production && node server",
-    "dev" : "nodemon server"
+    "dev": "nodemon server"
   },
   "author": "Valeriy Dutt",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
